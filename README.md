@@ -15,5 +15,6 @@ Once composer is installed, execute the following command in your project root t
 
 ```sh
 git clone https://github.com/rakphao/integrated-google-sign-in.git
+cd integrated-google-sign-in/
 composer update
 ```
