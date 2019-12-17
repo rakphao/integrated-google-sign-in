@@ -18,3 +18,7 @@ git clone https://github.com/rakphao/integrated-google-sign-in.git
 cd integrated-google-sign-in/
 composer update
 ```
+
+## Configuration ##clientSecret
+Rename file config.example.php to config.php then add your Google clientID and clientSecret
+which you have got from https://console.developers.google.com/apis/credentials
