@@ -1,0 +1,14 @@
+{
+    "name": "rakphao/integrated-google-sign-in",
+    "description": "Example system which has integrated Google Sign-In service",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rakphao",
+            "email": "theppan@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.4"
+    }
+}
