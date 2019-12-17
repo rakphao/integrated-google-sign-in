@@ -12,4 +12,3 @@
 // add YOUR_CLIENT_ID and YOUR_CLIENT_SECRET then chang file name to config.php
 $clientID = '<YOUR_CLIENT_ID>';
 $clientSecret = '<YOUR_CLIENT_SECRET>';
-$redirectUri = 'http://localhost/integrated-sign-in/'; //'<REDIRECT_URI>';
